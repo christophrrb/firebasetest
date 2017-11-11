@@ -15,6 +15,10 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             savePerson()
         }
+
+        viewPeopleButton.setOnClickListener {
+            startActivity<ViewPeople>();
+        }
     }
 
     fun savePerson() {

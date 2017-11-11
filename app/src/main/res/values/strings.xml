@@ -3,4 +3,5 @@
     <string name="name">Name</string>
     <string name="email">Email</string>
     <string name="submit">Submit</string>
+    <string name="view_people">View People</string>
 </resources>
